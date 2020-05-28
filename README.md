@@ -5,7 +5,7 @@
 The deployment of the whole solution consists of several main steps:
 1.	Create an account in Intersight and claim all storage nodes
 2.	Create Terraform configuration environment for Intersight.
-3.	Apply Terraform configurations for 
+3.	Apply Terraform configurations for \
 (A) Firmware Update on all storage nodes \
 (B) Create server policies \
 (C) Create server profiles \
