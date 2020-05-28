@@ -8,12 +8,13 @@ The deployment of the whole solution consists of several main steps:
 1.	Create an account in Intersight and claim all storage nodes
 2.	Create Terraform configuration environment for Intersight.
 3.	Apply Terraform configurations for 
-* Firmware Update on all storage nodes 
-* Create server policies 
-* Create server profiles 
-* Deploy server profiles for all nodes 
-* Install Operating System on nodes 
+      * Firmware Update on all storage nodes 
+      * Create server policies 
+      * Create server profiles 
+      * Deploy server profiles for all nodes 
+      * Install Operating System on nodes 
 4.	Deploy software defined storage software
 
-
+'''
 #### More information is available at: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/2201041-intersight-terrafirma-wp.html
+'''
