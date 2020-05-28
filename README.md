@@ -15,6 +15,6 @@ The deployment of the whole solution consists of several main steps:
       * Install Operating System on nodes 
 4.	Deploy software defined storage software
 
-```
+
 #### More information is available at: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/2201041-intersight-terrafirma-wp.html
-```
+
